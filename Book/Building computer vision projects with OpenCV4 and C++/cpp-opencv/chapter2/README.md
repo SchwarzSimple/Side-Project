@@ -1,7 +1,7 @@
-#Abut
+# About
 - How to read and wirte an image using c++ and OpenCV
 
-#Steps
+# Steps
 - Create a "build" folder
 - Create a CMakeLists.txt
 - Copy lena.jpg from "https://github.com/TrainingByPackt/Building-Computer-Vision-Projects-with-OpenCV-4-and-CPP/blob/master/Chapter%2002/lena.jpg"
