@@ -1,0 +1,3 @@
+/home/hwc/cpp-opencv/chapter2/writing_to_filestorage/build/CMakeFiles/Chapter2.dir
+/home/hwc/cpp-opencv/chapter2/writing_to_filestorage/build/CMakeFiles/edit_cache.dir
+/home/hwc/cpp-opencv/chapter2/writing_to_filestorage/build/CMakeFiles/rebuild_cache.dir
