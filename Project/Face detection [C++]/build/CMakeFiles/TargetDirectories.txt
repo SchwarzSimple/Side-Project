@@ -1,0 +1,3 @@
+/home/hwc/Desktop/cpp/Chapter 12/build/CMakeFiles/DeepLearning_ch12_face.dir
+/home/hwc/Desktop/cpp/Chapter 12/build/CMakeFiles/edit_cache.dir
+/home/hwc/Desktop/cpp/Chapter 12/build/CMakeFiles/rebuild_cache.dir
