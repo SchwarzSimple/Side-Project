@@ -1,3 +1,6 @@
+# Learn C++
+A place to record what I learn each day [Date of completion]
+
 # Contents
 0.1 Introduction to these tutorials [1 June 2023]   
 0.2 Introduction to programming languages [1 June 2023]  
@@ -25,7 +28,7 @@
 1.11 Developing your first program [9 June 2023]  
 1.x Chapter 1 summary and quiz [9 June 2023]  
 
-2.1 Introduction to functions
+2.1 Introduction to functions [10 June 2023]  
 2.2 Function return values (value-returning functions) [10 June 2023]  
 2.3 Void functions (non-value returning functions) [10 June 2023]  
 2.4 Introduction to function parameters and arguments [12 June 2023]  
