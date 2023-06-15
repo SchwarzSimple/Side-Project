@@ -1,3 +1,0 @@
-/home/hwc/cpp-opencv/chapter3/gui_qt/build/CMakeFiles/ch3_sample3.dir
-/home/hwc/cpp-opencv/chapter3/gui_qt/build/CMakeFiles/edit_cache.dir
-/home/hwc/cpp-opencv/chapter3/gui_qt/build/CMakeFiles/rebuild_cache.dir
