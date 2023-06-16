@@ -39,6 +39,8 @@ A place to record what I learn each day [Date of completion]
 2.9 Naming collisions and an introduction to namespaces [14 June 2023]  
 2.10 Introduction to the preprocessor [15 June 2023]  
 2.11 Header files [15 June 2023]  
+2.12 Header guards [16 June 2023]  
+2.13 How to design your first programs [16 June 2023]  
 
 # Source
 https://www.learncpp.com/
