@@ -41,6 +41,7 @@ A place to record what I learn each day [Date of completion]
 2.11 Header files [15 June 2023]  
 2.12 Header guards [16 June 2023]  
 2.13 How to design your first programs [16 June 2023]  
+2.x Chapter 2 summary and quiz [17 June 2023]  
 
 # Source
 https://www.learncpp.com/
