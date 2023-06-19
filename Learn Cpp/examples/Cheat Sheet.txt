@@ -1,0 +1,17 @@
+# Why is a header file necessary?
+The purpose of a header file is to put all your forward declarations in one place.
+Let's say that there are two cases with and without a header file.
+<No header file>
+a.cpp including functions a_1 and a_2 -> nothing to do
+b.cpp including functions using a_1 -> forward declaration for the function a_1 in a.cpp
+main.cpp using a.cpp and b.cpp -> forward declarations for the functions in a.cpp and b.cpp
+<header file>
+ab.h -> header guard and all forward delcarations needed in the program
+a.cpp -> nothing to do
+b.cpp -> include the header file
+main.cpp -> include the header file
+In short, if we have a header file, we don't need to declare all functions in every cpp file. 
+
+# Why header guard is needed?
+Header guards are designed to ensure that the contents of a given header file are not copied, more than once, into any single file to prevent duplicate definitions.
+

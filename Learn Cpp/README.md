@@ -43,5 +43,9 @@ A place to record what I learn each day [Date of completion]
 2.13 How to design your first programs [16 June 2023]  
 2.x Chapter 2 summary and quiz [17 June 2023]  
 
+3.1 Syntax and semantic errors [19 June 2023]  
+3.2 The debugging process [19 June 2023]  
+3.3 A strategy for debugging [19 June 2023]  
+
 # Source
 https://www.learncpp.com/
