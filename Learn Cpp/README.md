@@ -1,5 +1,5 @@
 # Learn C++
-A place to record what I learn each day [Date of completion]
+A place to record what I've learn each day [Date of completion]
 
 # Contents
 0.1 Introduction to these tutorials [1 June 2023]   
@@ -46,6 +46,8 @@ A place to record what I learn each day [Date of completion]
 3.1 Syntax and semantic errors [19 June 2023]  
 3.2 The debugging process [19 June 2023]  
 3.3 A strategy for debugging [19 June 2023]  
+3.4 Basic debugging tactics [20 June 2023]  
+3.5 More debugging tactics [20 June 2023]  
 
 # Source
 https://www.learncpp.com/
