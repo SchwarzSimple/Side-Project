@@ -48,6 +48,7 @@ A place to record what I've learn each day [Date of completion]
 3.3 A strategy for debugging [19 June 2023]  
 3.4 Basic debugging tactics [20 June 2023]  
 3.5 More debugging tactics [20 June 2023]  
+3.6 Using an integrated debugger: Stepping [21 June 2023]  
 
 # Source
 https://www.learncpp.com/
