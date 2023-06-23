@@ -52,6 +52,7 @@ A place to record what I've learn each day [Date of completion]
 3.7 Using an integrated debugger: Running and breakpoints [22 June 2023]  
 3.8 Using an integrated debugger: Watching variables [22 June 2023]  
 3.9 Using an integrated debugger: The call stack [22 June 2023]  
+3.10 Finding issues before they become problems [23 June 2023]  
 
 # Source
 https://www.learncpp.com/
