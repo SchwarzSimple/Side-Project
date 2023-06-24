@@ -53,6 +53,11 @@ A place to record what I've learn each day [Date of completion]
 3.8 Using an integrated debugger: Watching variables [22 June 2023]  
 3.9 Using an integrated debugger: The call stack [22 June 2023]  
 3.10 Finding issues before they become problems [23 June 2023]  
+3.x Chapter 3 summary and quiz [24 June 2023]  
+
+4.1 Introduction to fundamental data types [24 June 2023]  
+4.2 Void [24 June 2023]  
+4.3 Object sizes and the sizeof operator [24 June 2023]  
 
 # Source
 https://www.learncpp.com/
