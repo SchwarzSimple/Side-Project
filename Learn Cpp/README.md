@@ -62,6 +62,7 @@ A place to record what I've learn each day [Date of completion]
 4.5 Unsigned integers, and why to avoid them [26 June 2023]  
 4.6 Fixed-width integers and size_t [27 June 2023]  
 4.7 Introduction to scientific notation [27 June 2023]  
+4.8 Floating point numbers [28 June 2023]  
 
 # Source
 https://www.learncpp.com/
