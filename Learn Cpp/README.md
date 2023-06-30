@@ -64,6 +64,8 @@ A place to record what I've learn each day [Date of completion]
 4.7 Introduction to scientific notation [27 June 2023]  
 4.8 Floating point numbers [28 June 2023]  
 4.9 Boolean values [29 June 2023]  
+4.10 Introduction to if statements [30 June 2023]  
+4.11 Chars [30 June 2023]  
 
 # Source
 https://www.learncpp.com/
