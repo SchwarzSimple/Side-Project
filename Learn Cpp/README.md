@@ -68,6 +68,8 @@ A place to record what I've learn each day [Date of completion]
 4.11 Chars [30 June 2023]  
 4.12 Introduction to type conversion and static_cast [3 July 2023]  
 4.13 Const variables and symbolic constants [3 July 2023]  
+4.14 Compile-time constants, constant expressions, and constexpr [4 July 2023]  
+4.15 Literals [4 July 2023]  
 
 # Source
 https://www.learncpp.com/
