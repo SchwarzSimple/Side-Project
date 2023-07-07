@@ -71,6 +71,8 @@ A place to record what I've learn each day [Date of completion]
 4.14 Compile-time constants, constant expressions, and constexpr [4 July 2023]  
 4.15 Literals [4 July 2023]  
 4.16 Numeral systems (decimal, binary, hexadecimal, and octal) [5 July 2023]  
+4.17 Introduction to std::string [7 July 2023]  
+4.18 Introduction to std::string_view [7 July 2023]  
 
 # Source
 https://www.learncpp.com/
