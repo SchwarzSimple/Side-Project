@@ -73,6 +73,8 @@ A place to record what I've learn each day [Date of completion]
 4.16 Numeral systems (decimal, binary, hexadecimal, and octal) [5 July 2023]  
 4.17 Introduction to std::string [7 July 2023]  
 4.18 Introduction to std::string_view [7 July 2023]  
+4.19 std::string_view (part 2) [12 July 2023]  
+4.x Chapter 4 summary and quiz [12 July 2023]  
 
 # Source
 https://www.learncpp.com/
